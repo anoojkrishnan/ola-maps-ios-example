@@ -2,6 +2,9 @@
 
 This is a sample iOS application that demonstrates the integration of the OLAMaps iOS SDK.
 
+<img src="https://github.com/anoojkrishnan/ola-maps-ios-example/blob/main/Screenshots/MapView.jpeg?raw=true" width="350">
+
+
 # Prerequisites
 
  1. Create an account in OLAMaps from here: https://maps.olakrutrim.com/

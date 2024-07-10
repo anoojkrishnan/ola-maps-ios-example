@@ -11,6 +11,7 @@ This is a sample iOS application that demonstrates the integration of the OLAMap
  2. Create a project inside OLAMaps by following the instructions provided here: https://maps.olakrutrim.com/docs/auth
  3. Note down the API Key, Client ID and Client Secret from the project dashboard.
  4. [Download OlaMapNavigation SDK](https://maps.olakrutrim.com/downloads) and import all the `xcframeworks` in your iOS project. Make sure you `embed` all the frameworks in `General > Frameworks, Libraries and Embedded Content`
+<img src="https://github.com/anoojkrishnan/ola-maps-ios-example/blob/main/Screenshots/Framework.png?raw=true" width="350">
  5. Add Location Permission Authorization in your Info.plist file. See [Setup Map](https://maps.olakrutrim.com/docs/sdks/navigation-sdks/ios) section for more details
  
 
